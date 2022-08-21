@@ -1,14 +1,16 @@
-# CodePath-prework
-
 ## NAME_OF_YOUR_APP_HERE
 Hello world app
+
 ### App Description
-`TODO://` Add app description
-A mobile app that changes text and background color when buttons are clicked.
+`TODO://` A mobile app that changes the color of the text and background
+
 ### App Walk-though
+![](https://i.imgur.com/HQQZhhF.gif)
 
-<img src="https://www.youtube.com/watch?v=AICmesUNCX0" width=200><br>
 
+<img src="YOUR_GIF_URL_HERE" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
