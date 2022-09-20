@@ -1,5 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
-Hello world app
+HELLO WORLD APP
 
 ### App Description
 `TODO://` A mobile app that changes the color of the text and background
